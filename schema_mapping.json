@@ -1,0 +1,162 @@
+{
+    "settlement_timestamp": {
+        "matched_column": "settlement_time",
+        "confidence_score": 0.9694132804870605
+    },
+    "settlement_amount": {
+        "matched_column": "amount_settled",
+        "confidence_score": 0.9445161819458008
+    },
+    "invoice_no": {
+        "matched_column": "invoice_id",
+        "confidence_score": 0.9093416929244995
+    },
+    "buyer_finder_fee_amount": {
+        "matched_column": "buyer_buyer_fee",
+        "confidence_score": 0.9028737545013428
+    },
+    "paid_amount": {
+        "matched_column": "amount_settled",
+        "confidence_score": 0.8731527328491211
+    },
+    "bank_name": {
+        "matched_column": "debit_bank_name",
+        "confidence_score": 0.8720434904098511
+    },
+    "settlement_status": {
+        "matched_column": "settlement_status",
+        "confidence_score": 0.8713027834892273
+    },
+    "seller_app_id": {
+        "matched_column": "seller_app_id",
+        "confidence_score": 0.8686882257461548
+    },
+    "order_id": {
+        "matched_column": "order_created_at",
+        "confidence_score": 0.8517736792564392
+    },
+    "buyer_finder_fee_type": {
+        "matched_column": "buyer_buyer_fee",
+        "confidence_score": 0.8447465300559998
+    },
+    "bank_account_no": {
+        "matched_column": "debit_account_no",
+        "confidence_score": 0.8442514538764954
+    },
+    "buyer_app_id": {
+        "matched_column": "seller_app_id",
+        "confidence_score": 0.837023138999939
+    },
+    "settlement_phase": {
+        "matched_column": "settlement_type",
+        "confidence_score": 0.8159321546554565
+    },
+    "ifsc": {
+        "matched_column": "credit_ifsc",
+        "confidence_score": 0.8117660284042358
+    },
+    "message_ts": {
+        "matched_column": "settlement_time",
+        "confidence_score": 0.8115332126617432
+    },
+    "settlement_reference": {
+        "matched_column": "buyer_claim_id",
+        "confidence_score": 0.8035520315170288
+    },
+    "settlement_type": {
+        "matched_column": "settlement_mode",
+        "confidence_score": 0.790513813495636
+    },
+    "payment_transaction_id": {
+        "matched_column": "credit_account_no",
+        "confidence_score": 0.7735400199890137
+    },
+    "payment_type": {
+        "matched_column": "settlement_type",
+        "confidence_score": 0.7703210115432739
+    },
+    "settlement_counterparty": {
+        "matched_column": "settlement_type",
+        "confidence_score": 0.7662687301635742
+    },
+    "transaction_id": {
+        "matched_column": "buyer_claim_id",
+        "confidence_score": 0.7587082982063293
+    },
+    "payment_status": {
+        "matched_column": "settlement_mode",
+        "confidence_score": 0.7421094179153442
+    },
+    "settlement_window": {
+        "matched_column": "settlement_batch_id",
+        "confidence_score": 0.7395083904266357
+    },
+    "settlement_basis": {
+        "matched_column": "settlement_type",
+        "confidence_score": 0.7243632078170776
+    },
+    "withholding_amount": {
+        "matched_column": "seller_refund_amount",
+        "confidence_score": 0.7243126630783081
+    },
+    "provider_address": {
+        "matched_column": "seller_app_id",
+        "confidence_score": 0.6987690329551697
+    },
+    "provider_name": {
+        "matched_column": "seller_app_id",
+        "confidence_score": 0.669960081577301
+    },
+    "order_state": {
+        "matched_column": "settlement_status",
+        "confidence_score": 0.667620837688446
+    },
+    "beneficiary_name": {
+        "matched_column": "buyer_claim_id",
+        "confidence_score": 0.6594095230102539
+    },
+    "recon_status": {
+        "matched_column": "settlement_status",
+        "confidence_score": 0.6316409707069397
+    },
+    "currency": {
+        "matched_column": "debit_ifsc",
+        "confidence_score": 0.6272487044334412
+    },
+    "domain": {
+        "matched_column": "network_order_id",
+        "confidence_score": 0.6167911291122437
+    },
+    "provider_code": {
+        "matched_column": "buyer_buyer_fee",
+        "confidence_score": 0.6110774874687195
+    },
+    "source_file": {
+        "matched_column": "seller_gross_order_amount",
+        "confidence_score": 0.6107453107833862
+    },
+    "return_window": {
+        "matched_column": "id",
+        "confidence_score": 0.595893144607544
+    },
+    "counterparty_recon_status": {
+        "matched_column": "settlement_status",
+        "confidence_score": 0.5928521156311035
+    },
+    "collected_by": {
+        "matched_column": "settlement_status",
+        "confidence_score": 0.5821772217750549
+    },
+    "counterparty_diff_amount": {
+        "matched_column": "rejection_reason",
+        "confidence_score": 0.5661451816558838
+    },
+    "diff_amount": {
+        "matched_column": "seller_refund_amount",
+        "confidence_score": 0.541022539138794
+    },
+    "rsf_action": {
+        "matched_column": "claim_type",
+        "confidence_score": 0.5064268708229065
+    }
+}
